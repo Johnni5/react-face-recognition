@@ -1,4 +1,4 @@
-## FACE RECOGNITIO APP
+## FACE RECOGNITION APP
 v0.9
 
 i will let the npm description stay ..
