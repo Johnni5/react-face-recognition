@@ -1,3 +1,26 @@
+## FACE RECOGNITIO APP
+v0.9
+
+i will let the npm description stay ..
+it is in development.
+
+Goal:
+a website, with an input, where you put a link to an IMG with faces
+then, a button, click, and the api behind ( thx -> clariai) will detect & show the faces
+
+plus:
+nice live and interactive background
+nice little logos
+login via Firebase
+ranking the users
+
+
+
+Link will follow, as the project grows
+
+Enjoy!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
